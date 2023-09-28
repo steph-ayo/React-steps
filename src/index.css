@@ -8,7 +8,7 @@
 body {
   font-family: sans-serif;
   color: #333;
-  background-color: rgb(44, 43, 43);
+  background-color: rgb(177, 177, 177);
 }
 
 .steps {
@@ -80,7 +80,7 @@ h3 {
 }
 
 .close {
-  position: absolute;
+  /* position: absolute; */
   top: 16px;
   right: 16px;
   border: none;
