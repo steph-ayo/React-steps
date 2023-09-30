@@ -10,6 +10,8 @@ export default function App() {
     <div>
       <Steps />
       <Steps />
+      <Steps />
+      <Steps />
     </div>
   );
 }
